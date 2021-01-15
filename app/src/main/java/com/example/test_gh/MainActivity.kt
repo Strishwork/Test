@@ -7,8 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-//        b1_1
-//        b2
-//        b3
+//        master origin
     }
 }
